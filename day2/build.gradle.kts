@@ -15,7 +15,7 @@ tasks {
 
 
 application {
-    mainClass.set("MainKt")
+    mainClass.set("com.jolley71717.MainKt")
 }
 
 dependencies {
