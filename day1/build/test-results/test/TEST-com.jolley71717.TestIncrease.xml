@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jolley71717.TestIncrease" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-06T01:48:31" hostname="SOFI-C02C32PLMD6R" time="15.882">
-  <properties/>
-  <testcase name="testBetterIncrement()" classname="com.jolley71717.TestIncrease" time="15.882"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
